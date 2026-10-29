@@ -24,7 +24,7 @@
 
 ## 📌 Project Overview
 
-This is my first hands-on cybersecurity project: building a **virtual hacking lab** with VirtualBox and Kali Linux on my own computer.
+Bilding a **virtual hacking lab** with VirtualBox and Kali Linux on my own computer.
 
 Instead of practicing on my real system, I run Kali Linux inside a virtual machine. That way I can scan, test, and experiment freely, and if something breaks, I can simply restore a saved snapshot instead of reinstalling anything.
 
