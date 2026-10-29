@@ -80,18 +80,13 @@ More virtual machines can join the same network later as practice targets.
 
 | 🧩 Component       | ⚙️ Configuration   |
 | ------------------ | ------------------  |
-| 🖥️ Host OS         | [fill in]          |
-| 🧠 Host RAM        | [fill in]          |
-| ⚡ Processor       | [fill in]          |
-| 🧰 Hypervisor      | VirtualBox [version] |
-| 🐉 Security OS     | Kali Linux [version] |
-| 🧠 Kali RAM        | [fill in] MB       |
+| 🧰 Hypervisor      | VirtualBox [7.2.6] |
+| 🐉 Security OS     | Kali Linux [2025.4]|
 | 🌐 Virtual Network | NAT Network        |
 | 📡 Network Address | 10.0.0.0/24        |
 | 🐧 Kali IP Address | 10.0.0.2/24        |
 | 🚪 Default Gateway | 10.0.0.1           |
 | 🌍 DNS Server      | 10.0.0.1           |
-| 🔮 Future VM Range | 10.0.0.3 and up    |
 
 ---
 
@@ -225,8 +220,6 @@ When I wanted to change Kali's network settings, I **left-clicked** the network 
 
 **Solution:** I **right-clicked** the network icon instead and chose **Edit Connections**, which opened the full settings window where I could set the static IP.
 
-> **Lesson:** On Linux desktops, left-click and right-click on a panel icon often do different things. If a menu doesn't show what you need, try the other mouse button.
-
 
 ---
 
@@ -276,10 +269,10 @@ This lab is for learning purposes only. I will only test systems I own or have p
 
 # 👤 Author
 
-**[YOUR NAME]**\
+**Nabiha Imran**\
 Cybersecurity Student
 
-LinkedIn: [your LinkedIn link]
+LinkedIn: https://www.linkedin.com/in/nabiha-imran-3502753b1/ 
 
 ---
 
